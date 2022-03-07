@@ -11,10 +11,8 @@
 }
 .inner-carousel {
   display: flex;
-  background-color: green;
 }
 .carousel {
   cursor: grab;
   overflow: hidden;
-  background-color: lightcoral;
 }
